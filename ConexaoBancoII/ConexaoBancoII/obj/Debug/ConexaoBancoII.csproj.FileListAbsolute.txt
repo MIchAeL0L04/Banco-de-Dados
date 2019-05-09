@@ -1,0 +1,10 @@
+C:\Users\Micha\source\repos\ConexaoBancoII\ConexaoBancoII\bin\Debug\ConexaoBancoII.exe.config
+C:\Users\Micha\source\repos\ConexaoBancoII\ConexaoBancoII\bin\Debug\ConexaoBancoII.exe
+C:\Users\Micha\source\repos\ConexaoBancoII\ConexaoBancoII\bin\Debug\ConexaoBancoII.pdb
+C:\Users\Micha\source\repos\ConexaoBancoII\ConexaoBancoII\obj\Debug\ConexaoBancoII.csprojAssemblyReference.cache
+C:\Users\Micha\source\repos\ConexaoBancoII\ConexaoBancoII\obj\Debug\ConexaoBancoII.Form1.resources
+C:\Users\Micha\source\repos\ConexaoBancoII\ConexaoBancoII\obj\Debug\ConexaoBancoII.Properties.Resources.resources
+C:\Users\Micha\source\repos\ConexaoBancoII\ConexaoBancoII\obj\Debug\ConexaoBancoII.csproj.GenerateResource.cache
+C:\Users\Micha\source\repos\ConexaoBancoII\ConexaoBancoII\obj\Debug\ConexaoBancoII.csproj.CoreCompileInputs.cache
+C:\Users\Micha\source\repos\ConexaoBancoII\ConexaoBancoII\obj\Debug\ConexaoBancoII.exe
+C:\Users\Micha\source\repos\ConexaoBancoII\ConexaoBancoII\obj\Debug\ConexaoBancoII.pdb
